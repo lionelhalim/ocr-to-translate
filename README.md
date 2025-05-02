@@ -4,7 +4,11 @@
 `pip install -r requirements.txt`
 
 ### Running python script
+#### For Windows
 `python main.py`
+
+#### For Mac
+`python main-mac.py`
 
 ### Running as .exe
 - `pyinstaller --noconfirm --onefile --windowed --name main.py`
